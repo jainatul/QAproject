@@ -3,13 +3,13 @@ chk by mani
 
 check by vishal
 
-<<<<<<< HEAD
+
 check by kavitha
-=======
+
 Check by Atul
 
 check again
->>>>>>> ea669418ec6a3e75eabd666ddcc23042afcc9676
+
 
 
 
