@@ -1,0 +1,498 @@
+[
+    {
+        "productid": "product4",
+        "name": "IPhone10",
+        "type": "Mobiles",
+        "img": "iphone10.jpg",
+        "merchantdetails": [
+            {
+                "merchantid": 9,
+                "stock": 30,
+                "price": 90000,
+                "merchantname": "TeleEle",
+                "soldstock": 10,
+                "customerreview": 3.8
+            },
+            {
+                "merchantid": 2,
+                "stock": 42,
+                "price": 95100,
+                "merchantname": "EleBuy",
+                "soldstock": 6,
+                "customerreview": 3.6
+            },
+            {
+                "merchantid": 8,
+                "stock": 40,
+                "price": 97000,
+                "merchantname": "AmazonKie",
+                "soldstock": 20,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 4,
+                "stock": 34,
+                "price": 95100,
+                "merchantname": "flipkartBuy",
+                "soldstock": 5,
+                "customerreview": 3.9
+            },
+            {
+                "merchantid": 3,
+                "stock": 40,
+                "price": 67000,
+                "merchantname": "AmazonEle",
+                "soldstock": 10,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 11,
+                "stock": 30,
+                "price": 97000,
+                "merchantname": "AmazonEliStore",
+                "soldstock": 15,
+                "customerreview": 4.3
+            }
+        ],
+        "attributes": {
+            "OS": "ios",
+            "RAM": "4GB",
+            "Item Weight": "113g",
+            "Product Dimensions": "12.4 x 0.8 x 5.9 cm"
+        }
+    },
+    {
+        "productid": "product1",
+        "name": "IPhoneSE",
+        "type": "Mobiles",
+        "img": "iphoneSE.jpg",
+        "merchantdetails": [
+            {
+                "merchantid": 1,
+                "stock": 4,
+                "price": 60000,
+                "merchantname": "TeleBuy",
+                "soldstock": 16,
+                "customerreview": 4.1
+            },
+            {
+                "merchantid": 2,
+                "stock": 38,
+                "price": 65100,
+                "merchantname": "EleBuy",
+                "soldstock": 15,
+                "customerreview": 4
+            },
+            {
+                "merchantid": 3,
+                "stock": 40,
+                "price": 67000,
+                "merchantname": "AmazonEle",
+                "soldstock": 10,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 4,
+                "stock": 31,
+                "price": 65100,
+                "merchantname": "flipkartBuy",
+                "soldstock": 8,
+                "customerreview": 3.9
+            }
+        ],
+        "attributes": {
+            "OS": "ios",
+            "RAM": "2GB",
+            "Item Weight": "113g",
+            "Product Dimensions": "12.4 x 0.8 x 5.9 cm"
+        }
+    },
+    {
+        "productid": "product2",
+        "name": "IPhone6S",
+        "type": "Mobiles",
+        "img": "iphone6S.jpg",
+        "merchantdetails": [
+            {
+                "merchantid": 1,
+                "stock": 19,
+                "price": 50000,
+                "merchantname": "TeleBuy",
+                "soldstock": 21,
+                "customerreview": 3.8
+            },
+            {
+                "merchantid": 2,
+                "stock": 37,
+                "price": 55100,
+                "merchantname": "EleBuy",
+                "soldstock": 11,
+                "customerreview": 3.6
+            },
+            {
+                "merchantid": 8,
+                "stock": 30,
+                "price": 67000,
+                "merchantname": "AmazonKie",
+                "soldstock": 30,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 4,
+                "stock": 34,
+                "price": 65100,
+                "merchantname": "flipkartBuy",
+                "soldstock": 5,
+                "customerreview": 3.9
+            }
+        ],
+        "attributes": {
+            "OS": "ios",
+            "RAM": "2GB",
+            "Item Weight": "113g",
+            "Product Dimensions": "12.4 x 0.8 x 5.9 cm"
+        }
+    },
+    {
+        "productid": "product3",
+        "name": "IPhone7",
+        "type": "Mobiles",
+        "img": "iphone7.jpg",
+        "merchantdetails": [
+            {
+                "merchantid": 9,
+                "stock": 30,
+                "price": 70000,
+                "merchantname": "TeleEle",
+                "soldstock": 20,
+                "customerreview": 3.8
+            },
+            {
+                "merchantid": 2,
+                "stock": 42,
+                "price": 75100,
+                "merchantname": "EleBuy",
+                "soldstock": 6,
+                "customerreview": 3.6
+            },
+            {
+                "merchantid": 8,
+                "stock": 29,
+                "price": 77000,
+                "merchantname": "AmazonKie",
+                "soldstock": 31,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 4,
+                "stock": 34,
+                "price": 75100,
+                "merchantname": "flipkartBuy",
+                "soldstock": 5,
+                "customerreview": 3.9
+            }
+        ],
+        "attributes": {
+            "OS": "ios",
+            "RAM": "4GB",
+            "Item Weight": "113g",
+            "Product Dimensions": "12.4 x 0.8 x 5.9 cm"
+        }
+    },
+    {
+        "productid": "product5",
+        "name": "Redmi5S",
+        "type": "Mobiles",
+        "img": "redmi5S.jpg",
+        "merchantdetails": [
+            {
+                "merchantid": 9,
+                "stock": 33,
+                "price": 15000,
+                "merchantname": "TeleEle",
+                "soldstock": 20,
+                "customerreview": 3.9
+            },
+            {
+                "merchantid": 2,
+                "stock": 40,
+                "price": 15100,
+                "merchantname": "EleBuy",
+                "soldstock": 10,
+                "customerreview": 3.8
+            },
+            {
+                "merchantid": 8,
+                "stock": 40,
+                "price": 17000,
+                "merchantname": "AmazonKie",
+                "soldstock": 18,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 4,
+                "stock": 34,
+                "price": 15100,
+                "merchantname": "flipkartBuy",
+                "soldstock": 15,
+                "customerreview": 3.9
+            },
+            {
+                "merchantid": 3,
+                "stock": 44,
+                "price": 17000,
+                "merchantname": "AmazonEle",
+                "soldstock": 10,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 11,
+                "stock": 26,
+                "price": 17000,
+                "merchantname": "AmazonEliStore",
+                "soldstock": 29,
+                "customerreview": 4.3
+            }
+        ],
+        "attributes": {
+            "OS": "Android",
+            "RAM": "4GB",
+            "Item Weight": "113g",
+            "Product Dimensions": "12.4 x 0.8 x 5.9 cm"
+        }
+    },
+    {
+        "productid": "product6",
+        "name": "RedmiY2",
+        "type": "Mobiles",
+        "img": "redmiY2.jpg",
+        "merchantdetails": [
+            {
+                "merchantid": 9,
+                "stock": 33,
+                "price": 15000,
+                "merchantname": "TeleEle",
+                "soldstock": 20,
+                "customerreview": 3.9
+            },
+            {
+                "merchantid": 2,
+                "stock": 40,
+                "price": 15100,
+                "merchantname": "EleBuy",
+                "soldstock": 10,
+                "customerreview": 3.8
+            },
+            {
+                "merchantid": 8,
+                "stock": 40,
+                "price": 17000,
+                "merchantname": "AmazonKie",
+                "soldstock": 18,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 4,
+                "stock": 34,
+                "price": 15100,
+                "merchantname": "flipkartBuy",
+                "soldstock": 15,
+                "customerreview": 3.9
+            },
+            {
+                "merchantid": 3,
+                "stock": 44,
+                "price": 17000,
+                "merchantname": "AmazonEle",
+                "soldstock": 10,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 11,
+                "stock": 28,
+                "price": 17000,
+                "merchantname": "AmazonEliStore",
+                "soldstock": 27,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 5,
+                "stock": 30,
+                "price": 17000,
+                "merchantname": "AmazonSt",
+                "soldstock": 25,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 7,
+                "stock": 30,
+                "price": 17000,
+                "merchantname": "AmazonEliSt",
+                "soldstock": 15,
+                "customerreview": 4.1
+            }
+        ],
+        "attributes": {
+            "OS": "Android",
+            "RAM": "4GB",
+            "Item Weight": "113g",
+            "Product Dimensions": "12.4 x 0.8 x 5.9 cm"
+        }
+    },
+    {
+        "productid": "product7",
+        "name": "SamsungPro",
+        "type": "Mobiles",
+        "img": "samsung7pro.jpg",
+        "merchantdetails": [
+            {
+                "merchantid": 9,
+                "stock": 33,
+                "price": 15000,
+                "merchantname": "TeleEle",
+                "soldstock": 20,
+                "customerreview": 3.9
+            },
+            {
+                "merchantid": 2,
+                "stock": 40,
+                "price": 15100,
+                "merchantname": "EleBuy",
+                "soldstock": 10,
+                "customerreview": 3.8
+            },
+            {
+                "merchantid": 8,
+                "stock": 40,
+                "price": 17000,
+                "merchantname": "AmazonKie",
+                "soldstock": 18,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 4,
+                "stock": 34,
+                "price": 15100,
+                "merchantname": "flipkartBuy",
+                "soldstock": 15,
+                "customerreview": 3.9
+            },
+            {
+                "merchantid": 3,
+                "stock": 44,
+                "price": 17000,
+                "merchantname": "AmazonEle",
+                "soldstock": 10,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 11,
+                "stock": 28,
+                "price": 17000,
+                "merchantname": "AmazonEliStore",
+                "soldstock": 27,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 5,
+                "stock": 30,
+                "price": 17000,
+                "merchantname": "AmazonSt",
+                "soldstock": 25,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 7,
+                "stock": 30,
+                "price": 17000,
+                "merchantname": "AmazonEliSt",
+                "soldstock": 15,
+                "customerreview": 4.1
+            }
+        ],
+        "attributes": {
+            "OS": "Android",
+            "RAM": "4GB",
+            "Item Weight": "113g",
+            "Product Dimensions": "12.4 x 0.8 x 5.9 cm"
+        }
+    },
+    {
+        "productid": "product8",
+        "name": "OnePlus 6S",
+        "type": "Mobiles",
+        "img": "oneplus6.jpg",
+        "merchantdetails": [
+            {
+                "merchantid": 9,
+                "stock": 27,
+                "price": 15000,
+                "merchantname": "TeleEle",
+                "soldstock": 26,
+                "customerreview": 3.9
+            },
+            {
+                "merchantid": 2,
+                "stock": 40,
+                "price": 15100,
+                "merchantname": "EleBuy",
+                "soldstock": 10,
+                "customerreview": 3.8
+            },
+            {
+                "merchantid": 8,
+                "stock": 40,
+                "price": 17000,
+                "merchantname": "AmazonKie",
+                "soldstock": 18,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 4,
+                "stock": 34,
+                "price": 15100,
+                "merchantname": "flipkartBuy",
+                "soldstock": 15,
+                "customerreview": 3.9
+            },
+            {
+                "merchantid": 3,
+                "stock": 44,
+                "price": 17000,
+                "merchantname": "AmazonEle",
+                "soldstock": 10,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 11,
+                "stock": 19,
+                "price": 17000,
+                "merchantname": "AmazonEliStore",
+                "soldstock": 36,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 5,
+                "stock": 30,
+                "price": 17000,
+                "merchantname": "AmazonSt",
+                "soldstock": 25,
+                "customerreview": 4.3
+            },
+            {
+                "merchantid": 7,
+                "stock": 30,
+                "price": 17000,
+                "merchantname": "AmazonEliSt",
+                "soldstock": 15,
+                "customerreview": 4.1
+            }
+        ],
+        "attributes": {
+            "OS": "Android",
+            "RAM": "4GB",
+            "Item Weight": "113g",
+            "Product Dimensions": "12.4 x 0.8 x 5.9 cm"
+        }
+    }
+]
